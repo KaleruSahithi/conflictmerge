@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 heloo
 hii
 namastee
+=======
+sa
+>>>>>>> dev1
